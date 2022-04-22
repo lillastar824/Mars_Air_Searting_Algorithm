@@ -1,0 +1,10 @@
+{
+  "name": "mars-air-seating-js",
+  "version": "1.0.0",
+  "description": "a seat allocator CLI for MarsAir",
+  "main": "bin/seating-assignment",
+  "repository": "git@github.com:PartnerSlate/mars-air-seating-js.git",
+  "author": "Partnerslate Engineering",
+  "license": "UNLICENSED",
+  "private": true
+}
